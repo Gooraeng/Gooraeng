@@ -27,11 +27,6 @@
   <!--CSS-->
   <br/>
   
-  ### Library
-  <!--Selenium-->
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>
-  <br/>
-  
   ### Framework
   <!--Spring-->
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
